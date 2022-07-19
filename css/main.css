@@ -1,0 +1,50 @@
+body{
+  background-image: url("../city_view4.jpgaaedf752-dded-4f00-9cef-fe814130d1b2Original.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container{
+  width: 300px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.box{
+  display: flex;
+  flex-direction: column;
+justify-content: space-between;
+align-items: center;
+padding: 30px;
+  width: 200px;
+  height: 500px;
+  border-radius: 10px;
+  margin-right: auto;
+  margin-left: auto;
+background-color: rgb(58, 42, 42);
+}
+
+.span1{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+
+}
+
+.span2{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+
+}
+.span3{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);;
+
+}
